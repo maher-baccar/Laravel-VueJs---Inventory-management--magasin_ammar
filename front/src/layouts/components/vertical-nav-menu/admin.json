@@ -1,0 +1,29 @@
+[{
+        "title": "Menu",
+        "icon": "mdiHomeOutline",
+        "children": [
+            {
+                "title": "Magasinier",
+                "to": { "name": "storekeepers" },
+                "icon": "mdiHomeOutline"
+            },
+            {
+                "title": "Catégories",
+                "to": { "name": "categories" },
+                "icon": "mdiHomeOutline"
+            },
+            {
+                "title": "Produits",
+                "to": { "name": "products" },
+                "icon": "mdiHomeOutline"
+            },
+            {
+                "title": "Fournisseurs",
+                "to": { "name": "providers" },
+                "icon": "mdiHomeOutline"
+            }
+
+
+        ]
+    }
+]
